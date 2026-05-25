@@ -9,7 +9,7 @@ const token = "8762967387:AAGmtJVq_qio9VHN0DDoCQhSPRG8rbFkx08";
 // ===============================
 // TELEGRAM CHAT ID
 // ===============================
-const chatId = "8762967387";
+const chatId = "1349647895";
 
 // Create Telegram Bot
 const bot = new TelegramBot(token, { polling: false });
